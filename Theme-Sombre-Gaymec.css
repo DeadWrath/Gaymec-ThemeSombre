@@ -12,6 +12,6 @@ body, #contenu_global, .main_2,.isc_wrapper,.champ-2,.fix-mmenu-chat,.chat-date,
  	background:#282828;
 }
 
-.notifications-title, .notif-item-bottom{
+.notifications-title, .notif-item-bottom,.message-item-selectionne{
 	background-color:#cc0022 !important;
 }
