@@ -1,6 +1,6 @@
 *{color:white !important;}
 
-body, #contenu_global, .main_2,.isc_wrapper,.champ-2,.fix-mmenu-chat,.chat-date,.footer-chat, .membre_1, .membre_1b,.les_discussions,.content-fixed,.reglage-tri-info,.sous_sous_menu1,.discussion-top-action-menu-open,.popup_v5 .content,#popup_inscription .title, #popup_contact .title, #popup_connexion .title,input,textarea,.fond_popup,.profil-sous-menu-content{
+body, #contenu_global, .main_2,.isc_wrapper,.champ-2,.fix-mmenu-chat,.chat-date,.footer-chat, .membre_1, .membre_1b,.les_discussions,.content-fixed,.reglage-tri-info,.sous_sous_menu1,.discussion-top-action-menu-open,.popup_v5 .content,#popup_inscription .title, #popup_contact .title, #popup_connexion .title,input,textarea,.fond_popup,.profil-sous-menu-content,.profil-diapo-commentaire, .profil-diapo-like,.profil-diapo-commentaire__top,.profil-diapo-commentaire__like-comment-bar,.profil-diapo-commentaire__bottom{
     background-color:#282828 !important;
 }
 
