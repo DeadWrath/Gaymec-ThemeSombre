@@ -12,6 +12,6 @@ body, #contenu_global, .main_2,.isc_wrapper,.champ-2,.fix-mmenu-chat,.chat-date,
  	background:#282828 !important;
 }
 
-.notifications-title, .notif-item-bottom,.membre_1:hover, .membre_8:hover, .membre_1b:hover, .membre_2:hover, .forum_encadre:hover, .ligne_faq:hover, .ligne_avis:hover, .ligne_notif:hover, .ligne_reponse_forum:hover{
+.notifications-title, .notif-item-bottom,.membre_1:hover, .membre_8:hover, .membre_1b:hover, .membre_2:hover, .forum_encadre:hover, .ligne_faq:hover, .ligne_avis:hover, .ligne_notif:hover, .ligne_reponse_forum:hover,.message-item:hover{
 	background-color:#4d0078 !important;
 }
