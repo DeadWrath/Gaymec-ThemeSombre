@@ -4,7 +4,7 @@ body, #contenu_global, .main_2,.isc_wrapper,.champ-2,.fix-mmenu-chat,.chat-date,
     background-color:#282828 !important;
 }
 
-.sous_menu_1_ombre,.sous_menu_3,.sous_menu_3_uni,.formfield,.bouton-blanc-large,.bouton-gauche-blanc:hover, .bouton-droite-blanc:hover, .bouton-blanc-large:hover, .bouton-entier-blanc:hover, .bouton_plus_damis:hover, .bouton-blanc-30:hover,.bouton-droite-blanc,.bouton-gauche-blanc,.sous_menu_6,.sous_menu_7{
+.sous_menu_1_ombre,.sous_menu_3,.sous_menu_3_uni,.formfield,.bouton-blanc-large,.bouton-gauche-blanc:hover, .bouton-droite-blanc:hover, .bouton-blanc-large:hover, .bouton-entier-blanc:hover, .bouton_plus_damis:hover, .bouton-blanc-30:hover,.bouton-droite-blanc,.bouton-gauche-blanc,.sous_menu_6,.sous_menu_7,.fond_criteres_recherche{
     background:linear-gradient(#282828,#282828);
 }
 

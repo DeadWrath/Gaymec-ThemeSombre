@@ -1,10 +1,10 @@
 *{color:white !important;}
 
-body, #contenu_global, .main_2,.isc_wrapper,.champ-2,.fix-mmenu-chat,.chat-date,.footer-chat, .membre_1, .membre_1b,.les_discussions,.content-fixed,.reglage-tri-info,.sous_sous_menu1,.discussion-top-action-menu-open,.popup_v5 .content,#popup_inscription .title, #popup_contact .title, #popup_connexion .title,input,textarea,.fond_popup,.profil-sous-menu-content,.profil-diapo-commentaire, .profil-diapo-like,.profil-diapo-commentaire__top,.profil-diapo-commentaire__like-comment-bar,.profil-diapo-commentaire__bottom{
+body, #contenu_global, .main_2,.isc_wrapper,.champ-2,.fix-mmenu-chat,.chat-date,.footer-chat, .membre_1, .membre_1b,.les_discussions,.content-fixed,.reglage-tri-info,.sous_sous_menu1,.discussion-top-action-menu-open,.popup_v5 .content,#popup_inscription .title, #popup_contact .title, #popup_connexion .title,input,textarea,.fond_popup,.profil-sous-menu-content,.profil-diapo-commentaire, .profil-diapo-like,.profil-diapo-commentaire__top,.profil-diapo-commentaire__like-comment-bar,.profil-diapo-commentaire__bottom,.profil-infos-fixed-bar__options-mon-profil{
     background-color:#282828 !important;
 }
 
-.sous_menu_1_ombre,.sous_menu_3,.sous_menu_3_uni,.formfield,.bouton-blanc-large,.bouton-gauche-blanc:hover, .bouton-droite-blanc:hover, .bouton-blanc-large:hover, .bouton-entier-blanc:hover, .bouton_plus_damis:hover, .bouton-blanc-30:hover,.bouton-droite-blanc,.bouton-gauche-blanc,.sous_menu_6,.sous_menu_7,.sous_titre_page{
+.sous_menu_1_ombre,.sous_menu_3,.sous_menu_3_uni,.formfield,.bouton-blanc-large,.bouton-gauche-blanc:hover, .bouton-droite-blanc:hover, .bouton-blanc-large:hover, .bouton-entier-blanc:hover, .bouton_plus_damis:hover, .bouton-blanc-30:hover,.bouton-droite-blanc,.bouton-gauche-blanc,.sous_menu_6,.sous_menu_7,.sous_titre_page,.fond_criteres_recherche{
     background:linear-gradient(#282828,#282828);
 }
 
