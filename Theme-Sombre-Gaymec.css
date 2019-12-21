@@ -19,3 +19,7 @@ body, #contenu_global, .main_2,.isc_wrapper,.champ-2,.fix-mmenu-chat,.chat-date,
 .select2-container .select2-choice{
  	   background-image:-webkit-gradient(linear, left bottom, left top, color-stop(0, #eee), color-stop(0.25, #282828))
 }
+
+.bulle_nb_msg_chat{
+	color:black !important;
+}
