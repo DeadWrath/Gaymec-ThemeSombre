@@ -2,12 +2,12 @@
 
 /*  HOME - MEMBRES - AMIS - FAVORIS - Infos Page Membre - Dernières Visites - Liste des messages - Recherche*/
 
-body, .home-recherche, .content-fixed, .discussion-top-action-menu-open, .info-footer, .les_discussions, .menu, #discussion-info{
+body, .home-recherche, .content-fixed, .discussion-top-action-menu-open, .info-footer, .les_discussions, .menu, #discussion-info, .mbsc-material .mbsc-fr-w{
     background-color:#404040 !important;
 }
 
 .home-item:hover .home-item-bottom, .sub-menu__header--info, .sub-menu__item-current, .home-item.selected .home-item-bottom{
-    background-color:#c02 !important;
+    background-color:#c02 !important; //Mettre ici la variable de chaque palette de chaque site
 }
 
 .sub-menu__item:hover{
@@ -32,7 +32,7 @@ body, .home-recherche, .content-fixed, .discussion-top-action-menu-open, .info-f
 
 /* PROFIL */
 
-//besoin d une balise à la place de du style brut//
+//besoin d une balise à la place de du style brut
 
 #div_wrapper2{
     background-color:#404040 !important;
